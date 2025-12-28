@@ -3,16 +3,16 @@
 #
 
 # Name of your site (displayed in the header)
-name: Reverie
+name: HackerTyperAbuser's Attack Blog
 
 # Name of the author
-author: Amit Merchant
+author: Nguyen Nghia 'Vapour' Hiep
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: Personal blog on my cybersecurity journey.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: https://avatars.githubusercontent.com/u/122219995?s=400&u=283997950735fb50903b9f07b45ad5157a9e3556&v=4
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.merchant@gmail.com
+  email: nghiahiepb2004@gmail.com
   facebook:
   flickr:
-  github: amitmerchant1990/reverie
+  github: https://github.com/HackerTyperAbuser
   instagram:
-  linkedin: 
+  linkedin: https://www.linkedin.com/in/nghiahiepsec/
   pinterest:
   rss: rss
   twitter: amit_merchant
@@ -48,8 +48,8 @@ google_analytics: UA-43339302-11
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.amitmerchant.com/reverie
-enforce_ssl: https://www.amitmerchant.com/reverie
+url: http://hackertyperabuser.github.io/
+enforce_ssl: https://hackertyperabuser.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
